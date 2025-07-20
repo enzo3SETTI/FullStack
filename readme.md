@@ -2,7 +2,8 @@
 
 > Links úteis:  
 > [Markup Validation Service](https://validator.w3.org/)  
-> [HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/mJgBOIoGihA?si=uTApZsqb8IDnb6cf&t=6479)
+> [HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://youtu.be/mJgBOIoGihA?si=2-iLs6lvQtl9nzZQ&t=9632)
+> C:\Users\enzot\OneDrive\Área de Trabalho\FullStack
 
 ## Chap 3: Text Basics
 
@@ -42,3 +43,9 @@ just one `<main>` per page
 avoid using (no semantic meaning):  
 * `<div></div>` 
 * `<spam></spam>`
+
+## Chap 8: Tables
+
+Table size depends on the content
+
+scope vs matrix id header identification
