@@ -28,3 +28,17 @@ semantic meaning of `<figure>` and `<figcaption>`
 > [Free Images 4](https://pixabay.com/pt/)  
 > [Irfanview image editor](https://www.irfanview.com/)  
 > [Image compressor](https://tinypng.com/)
+
+## Chap 7: Semantics
+
+Only one `<h1>` per page
+
+just one `<main>` per page
+
+`<footer>`, `<main>` and `<header>`
+
+`<article>`(specific topic) vs `<section>` (generic)
+
+avoid using (no semantic meaning):  
+* `<div></div>` 
+* `<spam></spam>`
